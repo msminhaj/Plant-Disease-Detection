@@ -19,19 +19,19 @@ If you want to learn more about <b>Plant Disease Detection </b> you can read the
 
 ## Methodology
  # Data Collection and Preprocessing
- Datasets were sourced from open-source repositories or agricultural research centers.
- Images were preprocessed using resizing, normalization, and augmentation techniques to enhance model generalization.
+   Datasets were sourced from open-source repositories or agricultural research centers.
+   Images were preprocessed using resizing, normalization, and augmentation techniques to enhance model generalization.
  # Model Architecture
- The Inception network was customized to support multi-class classification.
- Transfer learning was employed to fine-tune the model on the dataset for plant diseases.
+   The Inception network was customized to support multi-class classification.
+   Transfer learning was employed to fine-tune the model on the dataset for plant diseases.
  # Training and Validation
- The dataset was split into training, validation, and test sets.
- The model was trained using categorical cross-entropy loss and Adam optimizer.
+   The dataset was split into training, validation, and test sets.
+   The model was trained using categorical cross-entropy loss and Adam optimizer.
  # Evaluation
- Metrics such as accuracy, precision, recall, and F1-score were computed to evaluate performance.
+   Metrics such as accuracy, precision, recall, and F1-score were computed to evaluate performance.
 
 ## Installation
-  Download the project files using Git:
+   Download the project files using Git:
 ```bash
  git clone https://github.com/your-repo/plant-disease-detection.git
  cd plant-disease-detection
