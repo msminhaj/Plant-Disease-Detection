@@ -30,13 +30,10 @@ If you want to learn more about <b>Plant Disease Detection </b> you can read the
  # Evaluation
    Metrics such as accuracy, precision, recall, and F1-score were computed to evaluate performance.
 
-## Installation
-   Download the project files using Git:
-```bash
- git clone https://github.com/your-repo/plant-disease-detection.git
- cd plant-disease-detection
+## Run Colab
+Google Colab Link : [Click Here](https://colab.research.google.com/drive/1Emd16eIuV2JXgmextk9VaN94OoBksAgr)  
 
-```
+
 ## Future Work
  <li> Implementing real-time disease detection using mobile or edge devices.
  <li> Expanding the dataset to include more plant species and diseases.
